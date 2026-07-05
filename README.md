@@ -1,1 +1,1 @@
-# bu-dx699-homework-02-smkenyon
+# bu-dx699-homework-02
